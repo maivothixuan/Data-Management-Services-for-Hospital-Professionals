@@ -78,7 +78,10 @@ To transition from the existing on-premise system to a modern cloud-based data w
 - **Enhanced Performance:** Faster ETL processes and improved performance for critical operations like salary calculations.
 - **Better Documentation:** Comprehensive documentation and version control ensure transparency and ease of maintenance.
 - **Scalability and Flexibility:** Cloud-based solution provides scalability and flexibility to adapt to future needs and technologies.
-
+!<p align="center">
+  <img src="Architect1.png" />
+<em>High Level Architecture</em>
+</p>
 ---
 
 This document outlines the current challenges and the proposed approach to building a modern, cloud-based data warehouse, ensuring a more efficient and maintainable system for the healthcare staffing agency.
